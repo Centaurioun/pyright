@@ -20,7 +20,7 @@
         "check:lockindent": "node ./build/checkLockIndent.js"
     },
     "devDependencies": {
-        "@types/glob": "^7.2.0",
+        "@types/glob": "^8.0.1",
         "@types/node": "^17.0.45",
         "@types/yargs": "^16.0.5",
         "@typescript-eslint/eslint-plugin": "^5.52.0",
